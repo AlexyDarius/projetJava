@@ -1,0 +1,5 @@
+{
+  "urlElevatedPoints": "https://wxs.ign.fr/cartovecto/geoportail/wfs?SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typeName=BDCARTO_BDD_WLD_WGS84G:construction_elevee&OUTPUTFORMAT=json",
+  "urlElectricLines": "https://wxs.ign.fr/cartovecto/geoportail/wfs?SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typeName=BDCARTO_V5:ligne_electrique&OUTPUTFORMAT=json",
+  "urlAerodromes": "https://wxs.ign.fr/cartovecto/geoportail/wfs?SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typeName=BDCARTO_BDD_WLD_WGS84G:aerodrome&OUTPUTFORMAT=json"
+}
